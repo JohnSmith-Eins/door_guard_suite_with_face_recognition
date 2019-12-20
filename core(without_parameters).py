@@ -2,7 +2,7 @@
 #人脸识别使用的库 face_recognition, cv2, numpy
 #向云服务器上传照片文件（功能实现sftp）使用的库 paramiko, datetime
 #和Arduino的通信（使用GPIO引脚的高低电平实现）使用的库 RPi.GPIO, time
-#解决Arduino通信时关门sleep函数引起人脸识别关闭的bug，引入_thread
+#解决Arduino通信时关门sleep函数引起人脸识别停止工作的bug，引入_thread
 
 import face_recognition
 import cv2
