@@ -1,6 +1,6 @@
 # door_guard_suite_with_face_recognition
-本项目基于https://github.com/ageitgey/face_recognition改写
-感谢这么多前人人对代码的辛勤付出
+本项目基于https://github.com/ageitgey/face_recognition 改写
+感谢这么多前人对代码的辛勤付出
 感谢一位学长对人脸识别项目的指导
 感谢寝室的各位的辛苦努力
 
