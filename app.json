@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1c87ec",
+    "navigationBarTitleText": "606项目",
+    "navigationBarTextStyle": "black"
+  },
+  
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

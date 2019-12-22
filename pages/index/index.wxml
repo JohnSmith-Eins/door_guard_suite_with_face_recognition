@@ -1,0 +1,4 @@
+<button bindtap="fun">获取图片</button>
+<image src="{{imgUr2}}"></image>
+<view>当前时间：{{time}}</view>
+<view>图片拍摄时间：{{time2}}</view>
