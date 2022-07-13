@@ -1,3 +1,11 @@
+# FaceRecognitionDoorGuard_Prototype
+Hello, there!  
+This is my first step in AI. It is a piece of sh*t but still a great reminder to me.  
+I still LOVE these days.  
+Thank you for reading here!  
+
+------------------------------------------------------------  
+
 # door_guard_suite_with_face_recognition
 
 本项目基于https://github.com/ageitgey/face_recognition 改写
